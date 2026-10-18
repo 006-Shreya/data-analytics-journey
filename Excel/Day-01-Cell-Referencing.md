@@ -33,8 +33,8 @@ Cell referencing helps create accurate, reusable formulas and is an important fo
 
 ## 4. Practice Status
 
-- [ ] Relative references
-- [ ] Absolute references
-- [ ] Mixed references
-- [ ] Completed exercises independently
+- [X] Relative references
+- [X ] Absolute references
+- [X ] Mixed references
+- [X ] Completed exercises independently
 
